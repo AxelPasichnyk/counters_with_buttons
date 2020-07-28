@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dce13bedc260f84c3981329d1c30eb4",
+    "revision": "8f39aa1ed7e0f3b2abba3b4eaeb6183e",
     "url": "/counters_with_buttons/index.html"
   },
   {
-    "revision": "34c71916ae1691d0808e",
+    "revision": "a6271e34fdb6d46678f5",
     "url": "/counters_with_buttons/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/counters_with_buttons/static/js/2.c6b55a15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34c71916ae1691d0808e",
-    "url": "/counters_with_buttons/static/js/main.2cee90ed.chunk.js"
+    "revision": "a6271e34fdb6d46678f5",
+    "url": "/counters_with_buttons/static/js/main.bc1be2dd.chunk.js"
   },
   {
     "revision": "55f1e4fbd77698f5e0c8",
